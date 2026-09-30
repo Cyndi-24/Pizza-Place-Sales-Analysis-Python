@@ -7,8 +7,6 @@
 
 Pizza Place Sales is a Python-based business analysis project focused on understanding the sales performance of a fictional pizza restaurant using transactional data.
 
-## Project Objective
-
 The objective was to identify the restaurant’s strongest and weakest sales periods, understand ordering patterns, evaluate product performance, and translate the findings into practical recommendations for staffing, inventory, promotions, and menu decisions.
 
 ## Data Source
