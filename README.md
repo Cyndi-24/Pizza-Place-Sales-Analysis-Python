@@ -1,4 +1,4 @@
-# Pizza Place Sales Performance Analysis
+# Pizza Place Sales Analysis
 
 
 ![image alt](https://github.com/Cyndi-24/Pizza-Place-Sales-Performance-Analysis-Python/blob/main/pizzasales_analysis/images/pizzza_sales_image.png)
