@@ -35,14 +35,6 @@ The analysis uses the **Pizza Place Sales** dataset from Maven Analytics, contai
 * Matplotlib and Seaborn: This was used for creating the data visuals
 * Jupyter Notebook: This is the interactive environment used to document the analysis step by step
 
-## Approach
-
-The project followed three main stages:
-1. **Data Preparation** – Imported, reviewed, cleaned, merged, and prepared the four related datasets for analysis.
-2. **Performance Analysis** – Used Python to answer the defined business questions and explore revenue, ordering patterns, peak periods, pricing, and product performance.
-3. **Business Interpretation** – Visualized key patterns, interpreted the findings, and translated them into practical recommendations for the restaurant.
-
-
 ## Data Cleaning & Preparation
 
 Before analysis, the four datasets were reviewed and prepared to ensure consistency and usability.
